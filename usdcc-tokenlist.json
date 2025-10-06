@@ -1,0 +1,21 @@
+{
+  "name": "USDCc Token List",
+  "logoURI": "https://logo-virid-beta.vercel.app/logo.png",
+  "keywords": ["stablecoin", "usdcc"],
+  "timestamp": "2025-10-06T14:04:24+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xbed310cda992d0b022114cebbda4f61e6cdcaa91",
+      "name": "USDCc",
+      "symbol": "USDCc",
+      "decimals": 6,
+      "logoURI": "https://logo-virid-beta.vercel.app/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
